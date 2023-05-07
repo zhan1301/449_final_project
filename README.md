@@ -1,5 +1,17 @@
 This weather map will display real-time weather for any place in the world. User will need to type the city they want to search, and then click on the city displayed. It will show the tempature range and overall weather.
 
+Reference:
+https://chat.openai.com/
+https://openweathermap.org/
+https://www.youtube.com/watch?v=wjKKIBc-6iE
+https://www.youtube.com/watch?v=zVYlhBl6TrA
+https://www.youtube.com/watch?v=Rrrw9DdniAM
+https://www.youtube.com/watch?v=M_M3gIc3Geo
+https://www.youtube.com/watch?v=hS84X64Xme4
+https://www.youtube.com/watch?v=wssk79JSsvw
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
