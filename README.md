@@ -1,5 +1,9 @@
 This weather map will display real-time weather for any place in the world. User will need to type the city they want to search, and then click on the city displayed. It will show the tempature range and overall weather.
 
+Vercel: https://449-final-project.vercel.app/
+
+Netlify: (It does not show up) https://grand-profiterole-9dbd31.netlify.app/
+
 Reference:
 https://chat.openai.com/
 https://openweathermap.org/
